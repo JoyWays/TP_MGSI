@@ -1,1 +1,1 @@
-meal-maker-project
+angular-vampire
