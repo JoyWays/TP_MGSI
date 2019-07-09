@@ -1,2 +1,1 @@
-:japanese_ogre:
-How wonderful to meet you!
+It was nice to have met you.
