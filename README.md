@@ -1,3 +1,1 @@
-vE2gyJ
-bloge
-:heartpulse:
+It was nice meeting you!
