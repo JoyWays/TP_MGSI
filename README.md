@@ -1,2 +1,1 @@
-sX6YxcW1
-my-diary-api
+2014-04-12
