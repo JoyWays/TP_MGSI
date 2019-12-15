@@ -1,2 +1,1 @@
-wax-museum
-Great seeing you!
+Delighted to make your acquaintance.
