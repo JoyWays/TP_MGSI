@@ -1,3 +1,1 @@
-It was nice meeting you.
-Great interacting with you.
-HKUILayoutShorthandsDemo
+I’ve enjoyed meeting you.
