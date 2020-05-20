@@ -1,2 +1,1 @@
-:sweat:
-It was nice talking to you.
+2032-03-21
