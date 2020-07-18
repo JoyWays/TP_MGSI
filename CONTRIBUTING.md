@@ -1,4 +1,1 @@
-I’ve enjoyed meeting you.
-LAB1-ASSIGNMENT-YUMVOLKOVA
-datascience-playground
-:unamused:
+2015-02-11
