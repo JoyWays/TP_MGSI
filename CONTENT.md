@@ -1,3 +1,1 @@
-nn8G0F
-ALTRAN-DOCKER-TRAVIS-AWS
-:frowning:
+It was nice meeting you.
