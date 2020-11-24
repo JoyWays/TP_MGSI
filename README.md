@@ -1,2 +1,1 @@
-Eo3SlliA
-It’s lovely to meet you!
+nlp_rnn
