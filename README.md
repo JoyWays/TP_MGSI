@@ -1,2 +1,1 @@
-2015-09-07
-BAMBOO-TO-SLACK
+It was nice talking to you.
