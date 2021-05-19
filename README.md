@@ -1,2 +1,1 @@
-lJxAmMgVH
--MediaConvergenceSoftware
+PROJECT-2-LANDING-PAGE
