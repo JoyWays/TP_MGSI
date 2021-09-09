@@ -1,1 +1,1 @@
-2015-03-25
+Thank you for your visit!
