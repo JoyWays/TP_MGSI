@@ -1,2 +1,0 @@
-pnT
-Devbuddies
