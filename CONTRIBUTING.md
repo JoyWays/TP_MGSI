@@ -1,1 +1,1 @@
-I’ve enjoyed meeting you!
+AZURECLI
