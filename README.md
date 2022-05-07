@@ -1,1 +1,1 @@
-ZJt
+personal-automations
