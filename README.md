@@ -1,2 +1,1 @@
-Pocbmwc1Bl
-:scream:
+ec2shutdown
