@@ -1,2 +1,1 @@
-ec2shutdown
-Thank you for your visit!
+2022-10-08
