@@ -1,1 +1,1 @@
-acts_as_textcaptcha_demo
+hjZaXZA
