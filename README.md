@@ -1,4 +1,1 @@
-learnswift
-BABY-CONTEXT-SWITCH
-:sleepy:
-:white_heart:
+I’m pleased to be able to interact with you.
