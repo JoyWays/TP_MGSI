@@ -1,2 +1,0 @@
--landing_resume-
-jugaad
