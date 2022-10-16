@@ -1,2 +1,1 @@
-HOs
-Great seeing you.
+bring-a-towel
