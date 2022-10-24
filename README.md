@@ -1,2 +1,1 @@
-KtjuNwaCp0
-:angry:
+CXY
