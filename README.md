@@ -1,1 +1,1 @@
-KqiUpDFin
+edo-frontend
