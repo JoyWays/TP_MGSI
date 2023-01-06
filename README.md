@@ -1,2 +1,1 @@
-s36R6TWC
--goodix
+ciDDKMBJp3
