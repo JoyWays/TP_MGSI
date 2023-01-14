@@ -1,2 +1,1 @@
-Nice meeting you!
-:grin:
+Nice to meet you.
